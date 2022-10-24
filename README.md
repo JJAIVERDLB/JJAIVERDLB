@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJAIVERDLB
-- 👀 I’m interested in solidity programming language and fast loans.
-- 🌱 I’m currently learning programming language solidity and java.
+- 👀 I’m interested in solidity programming language and programming Java.
+- 🌱 I’m currently learning programming language solidity and Java.
 - 💞️ I’m looking to collaborate on web3 development projects (defi, DAapps,  and NFT).
 - 📫 How to reach me for my instagram (legalmentejaiverdl).
 
