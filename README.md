@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JJAIVERDLB
+- 👋 Hi, I’m @Jaiver De Leon Bellorin
 - 👀 I’m interested in solidity programming language and programming Java.
 - 🌱 I’m currently learning programming language solidity and Java.
 - 💞️ I’m looking to collaborate on web3 development projects (defi, DAapps,  and NFT).
